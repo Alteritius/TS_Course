@@ -1,0 +1,11 @@
+*.txt
+# */package.json
+*/package-lock.json
+*/node_modules/
+/test/
+/test_Redux/
+/*/*/package-lock.json
+/*/*/node_modules
+*.firebaserc
+**/.next/
+**/credentials.js
