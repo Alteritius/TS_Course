@@ -9,3 +9,5 @@
 *.firebaserc
 **/.next/
 **/credentials.js
+
+*/linked-list-2.ts
