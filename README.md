@@ -1,6 +1,6 @@
-# React Course
+# TypeScript Course
 
-This repo consists of projects and tasks described in the React Course I've taken and done by myself or with help from the author of the course.
+This repo consists of projects and tasks described in the TypeScript Course I've taken and done by myself or with help from the author of the course.
 
 ## Credits
 
